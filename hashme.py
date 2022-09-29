@@ -2,6 +2,8 @@
 #coding: utf-8
 #AUTHOR : DEVIL MASTER
 
+#Мигель Адживапаев 4 репозиторий
+
 import hashlib
 from base64 import *
 import codecs
